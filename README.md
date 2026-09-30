@@ -44,7 +44,7 @@ Gosto de entender a tecnologia de ponta a ponta: desde a infraestrutura que cone
 
 <br>
 <a href="https://github.com/userrootkayrom/kaizenfinancas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userrootkayrom&repo=kaizenfinancas&bg_color=000000&title_color=00c8ff&text_color=9e9e9e&icon_color=00c8ff&hide_border=true&locale=pt-br" alt="Card do Projeto Kaizen Finanças" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userrootkayrom&repo=kaizenfinancas&bg_color=000000&title_color=00c8ff&text_color=9e9e9e&icon_color=00c8ff&hide_border=true&locale=pt-br&v=1" alt="Card do Projeto Kaizen Finanças" />
 </a>
 <br><br>
 
