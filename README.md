@@ -54,7 +54,7 @@ Gosto de entender a tecnologia de ponta a ponta: desde a infraestrutura que cone
 
 <br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=userrootkayrom&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&title_color=00c8ff&text_color=ffffff" alt="Troféus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=userrootkayrom&theme=radical&no-frame=true&no-bg=true&column=7&title_color=00c8ff&text_color=ffffff&v=1" alt="Troféus" />
 </a>
 <br><br>
 
