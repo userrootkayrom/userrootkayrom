@@ -73,11 +73,11 @@ Gosto de entender a tecnologia de ponta a ponta: desde a infraestrutura que cone
 
 ### 🔥 Sequência de Commits e Atividades
 
-<br>
+**<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=userrootkayrom&theme=dark&background=000000&border=000000&stroke=00c8ff&ring=00c8ff&fire=00c8ff&currStreakNum=ffffff&currStreakLabel=00c8ff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&hide_border=true&locale=pt_BR" alt="Sequência de Contribuições" />
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=userrootkayrom&bg_color=000000&color=00c8ff&line=00c8ff&point=ffffff&area=true&hide_border=true&custom_title=Histórico%20de%20Atividades" width="100%" alt="Gráfico de Atividades" />
-<br>
+<br>**
 
 ---
 
